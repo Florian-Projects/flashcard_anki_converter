@@ -1,0 +1,11 @@
+.idea
+.python-version
+
+# dirs containing copyright material so I can't share
+answers/*.pdf
+answers_img/*.png
+answers_txt/*.txt
+questions/*.pdf
+questions_img/*.png
+questions_txt/*.txt
+output_deck.apkg
